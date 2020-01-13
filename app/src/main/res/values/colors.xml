@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="verde">#35C53A</color>
+    <color name="verdeClick">#35993A</color>
+    <color name="rojo">#FC0505</color>
+    <color name="rojoClick">#990505</color>
+    <color name="amarillo">#F5F10E</color>
+    <color name="amarilloClick">#F5BB0E</color>
+    <color name="azul">#00FFFF</color>
+    <color name="azulClick">#0099BB</color>
+</resources>
